@@ -43,14 +43,14 @@ public class Solution {
         rev(nums, breakPoint + 1, n - 1);
     }
 
-    public static void main(String[] args) {
-        int[] arr = {1, 3, 2};
-        Solution solution = new Solution();
-        solution.nextPermutation(arr);
+//     public static void main(String[] args) {
+//         int[] arr = {1, 3, 2};
+//         Solution solution = new Solution();
+//         solution.nextPermutation(arr);
 
-        // Print the next permutation
-        for (int num : arr) {
-            System.out.print(num + " ");
-        }
-    }
+//         // Print the next permutation
+//         for (int num : arr) {
+//             System.out.print(num + " ");
+//         }
+//     }
 }
