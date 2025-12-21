@@ -16,9 +16,10 @@ class Solution {
             freq[t.charAt(i) - 'a']--;
         }
 
-        for(int i = 0 ;  i < 26 ; i++)
+        
+        for(int num : freq)
         {
-            if(freq[i] != 0) return false;
+            if(num != 0) return false;
         }
 
         return true;
