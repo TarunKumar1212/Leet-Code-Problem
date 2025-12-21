@@ -5,7 +5,7 @@ class Solution {
         {
             int n = num.charAt(i) - '0';
 
-            if((n%2) == 1)
+            if((n%2) != 0)
             {
                 return num.substring(0,i+1);
             } 
