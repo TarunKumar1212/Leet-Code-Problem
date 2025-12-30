@@ -1,7 +1,7 @@
 class Solution {
     public int searchInsert(int[] arr, int x) {
         
-
+//git check
         int n = arr.length;
         int low = 0;
         int high = n - 1;
