@@ -12,6 +12,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/1539-kth-missing-positive-number) |
+| [2643-row-with-maximum-ones](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
