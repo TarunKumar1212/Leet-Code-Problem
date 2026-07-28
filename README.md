@@ -99,4 +99,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
