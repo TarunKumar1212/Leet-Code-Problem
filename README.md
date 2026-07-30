@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/0069-sqrtx) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/0410-split-array-largest-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
