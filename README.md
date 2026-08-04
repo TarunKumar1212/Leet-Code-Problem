@@ -18,6 +18,7 @@
 | [1539-kth-missing-positive-number](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/2643-row-with-maximum-ones) |
+| [3731-find-missing-elements](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/0175-combine-two-tables) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/TarunKumar1212/Leet-Code-Problem/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
